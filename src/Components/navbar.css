@@ -1,0 +1,48 @@
+.nav {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  padding: 0 1rem;
+  justify-content: space-between;
+  background-color: rgba(0, 0, 0, 0.84);
+  color: aliceblue;
+}
+.logo img {
+  width: 100px;
+}
+.menu {
+  display: flex;
+  text-decoration: none;
+  list-style: none;
+  gap: 1rem;
+}
+.menu li {
+  font-family: "Gotham";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 15px;
+  cursor: pointer;
+}
+.buttons {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+.live_btn,
+.contact_btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  padding: 0.5rem 1rem;
+}
+.live_btn {
+  border: 1px solid #ff607e;
+  /* border-color: linear-gradient(94.1deg, #FF607E 2.09%, #01B5E0 100.97%); */
+  border-radius: 50px;
+}
+.contact_btn {
+  background: linear-gradient(94.1deg, #ff607e 2.09%, #01b5e0 100.97%);
+  border-radius: 50px;
+}

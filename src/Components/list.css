@@ -1,0 +1,8 @@
+.cardContext {
+  width: 100%;
+  padding: 2rem;
+  gap: 1rem;
+  justify-content: space-between;
+  display: flex;
+  flex-wrap: wrap;
+}
