@@ -10,7 +10,7 @@
       "bedrooms": 2,
       "bathrooms": 2,
       "description": "Beautiful house with a large backyard and modern kitchen",
-      "image": "https://pixabay.com/get/ge299a09d1be64a4816d30ae3f30138fb84814e4e9a96556fc8c6b237196a1487c1882851cf93ab2b47e0d603d87c52966a93e3543ffe25b62a5bbb554faf14e5_640.jpg"
+      "image": "https://i.ibb.co/8gK70Wh/hous1.jpg"
     },
     {
       "id": "2",
@@ -22,7 +22,7 @@
       "bedrooms": 3,
       "bathrooms": 2,
       "description": "Spacious house with a garage and plenty of storage space",
-      "image": "https://pixabay.com/get/gce5f7e086e331626ba9a825d24c5409c40a003085a328db2b414651025e58ee1d18d9e02ecf1ee9d5f7145a1487a3bd5_640.jpg"
+      "image": "https://i.ibb.co/b3N8vT7/house2.jpg"
     },
     {
       "id": "3",
@@ -34,7 +34,7 @@
       "bedrooms": 2,
       "bathrooms": 1,
       "description": "Cozy house in a quiet neighborhood",
-      "image": "https://pixabay.com/get/gbe6db4c520973b349ce6ec3a4fe7bc7801600fe37f5de0d188c75273fc2adba47b24f7e04a4c5310f58dc85c3dc731792de46c076fdcac862d1356046cb04176_640.jpg"
+      "image": "https://i.ibb.co/w7H4Sdj/house3.jpg"
     },
     {
       "id": "4",
@@ -46,7 +46,7 @@
       "bedrooms": 4,
       "bathrooms": 3,
       "description": "Spacious house with a pool and outdoor kitchen",
-      "image": "https://pixabay.com/get/g858a13e3b9a8a6da7cfb01e899c2181703f22cda887ffff09c4243c651f3e9d5898a1debb10df10e8cf85b4811a6da69194b9e71d76452914a9f5f1f0c17f89d_640.jpg"
+      "image": "https://i.ibb.co/jJFkkxC/house4.jpg"
     },
     {
       "id": "5",
@@ -58,7 +58,7 @@
       "bedrooms": 2,
       "bathrooms": 1,
       "description": "Charming house with a fireplace and garden",
-      "image": "https://pixabay.com/get/g66897c2ce6fafcb02c6f583691864f27a94f621781b1012d25b170d640b77ebdba6a6a473475ea53221a60ba77bef13893101e3fb7f0d4ae70883494fdcf2f26_640.jpg"
+      "image": "https://i.ibb.co/Swkg6rT/house5.jpg"
     },
     {
       "id": "6",
@@ -70,7 +70,7 @@
       "bedrooms": 3,
       "bathrooms": 2,
       "description": "Modern house with a rooftop terrace and city views",
-      "image": "https://pixabay.com/get/g84bfe0d1e7104ade573f0a117404a647710b06ebccede5a96d1fb5ff7d88133397952fa20d1f02adf16ba84248684b85dd44243c678eeb1d7469301ecba26503_640.jpg"
+      "image": "https://i.ibb.co/wCqPRjM/house6.jpg"
     },
     {
       "id": "7",
@@ -82,7 +82,7 @@
       "bedrooms": 2,
       "bathrooms": 2,
       "description": "Cozy house with a fireplace and garden",
-      "image": "https://pixabay.com/get/g6a63c6c15a09e8a5caa9bf4b7dfe83984b6dd72c88f5c918f9a8072ad7d286593632c4fbba72c342c614030b46f14dc76ed4a822c5cb9f90bb091ec510db6da0_640.jpg"
+      "image": "https://i.ibb.co/qp1fpbt/house7.jpg"
     },
     {
       "id": "8",
@@ -94,7 +94,7 @@
       "bedrooms": 3,
       "bathrooms": 2,
       "description": "Spacious house with a pool and view of the city",
-      "image": "https://pixabay.com/get/gabe39763e32571c51cbfe803fabdd224fe0b9fc0867dcfa7cd95dd57cddd13919ad70879d8ef75218fee22891fcad70e0d3263618871a76c1b42980c08597288_640.jpg"
+      "image": "https://i.ibb.co/Lx6DXHY/house8.jpg"
     },
     {
       "id": "9",
@@ -106,7 +106,7 @@
       "bedrooms": 3,
       "bathrooms": 3,
       "description": "Luxury house with a gourmet kitchen and outdoor living space",
-      "image": "https://pixabay.com/get/g09874aebeabf7a2bd7431619d024de6b26d88a8f14e84efdc27ee4190db1b92d4a6c968e31027b561de767b9f993e2d42f37949c28c2c7270597f4ea89d5bb6b_640.jpg"
+      "image": "https://i.ibb.co/Zd4WqKx/house9.jpg"
     },
     {
       "id": "10",
@@ -118,7 +118,7 @@
       "bedrooms": 3,
       "bathrooms": 3,
       "description": "Luxury house with a gourmet No kitchen and Zero living space",
-      "image": "https://pixabay.com/get/gd217cc3c42f3634cfce943240d6288e2715ce24af43f3752763c5f08f489fc8a61d4270f4e602a8f10717b6e03c985be704813698d4c4a14774397efb48bdd93_640.jpg"
+      "image": "https://i.ibb.co/prssr6f/house10.jpg"
     }
   ]
 }
